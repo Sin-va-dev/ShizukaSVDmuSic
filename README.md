@@ -73,7 +73,7 @@
 
 <br>
 
-- `/play <song name>` - play song you requested
+- `/Sing <song name>` - play song you requested
 
 - `/playlist` - Show now playing list
 
@@ -245,7 +245,7 @@
 
 <br>
 
-- Get your [Necessary Variables](https://github.com/itz-star-boi/ShizukaXMusic/blob/main/sample.env)
+- Get your [Necessary Variables](https://github.com/Sin-va-dev/ShizukaXMusic)/blob/main/sample.env)
 
 - Upgrade and Update by :
 
@@ -266,10 +266,6 @@
 - Install Node js by :
 
 `curl -fssL https://deb.nodesource.com/setup_18.x | sudo -E bash - && sudo apt-get install nodejs -y && npm i -g npm`
-
-- Clone the repository by :
-
-`git clone https://github.com/itz-star-boi/ShizukaXMusic && cd ShizukaXMusic`
 
 - Install requirements by :
 
